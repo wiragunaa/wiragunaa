@@ -4,9 +4,9 @@
 
 🌱 I’m currently learning **Laravel, Tailwind CSS, Linux**
 
-💬 Ask me about **Competitive Programming, C, C++, Python, Java**
+💬 Ask me about **Competitive Programming, C, C++, Python, Linux**
 
-⚡ Fun fact **I like Chocolate,Game,Anime,Sleep**
+⚡ Fun fact **I like Chocolate,Game,Anime and Sleep**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
