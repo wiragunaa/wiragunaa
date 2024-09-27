@@ -1,10 +1,12 @@
-<h1 align="center">Hi there👋, I'm Wiraguna </h1>
+<h1 align="center">Hi there👋, I'm Wiraguna</h1>
+<h3 align="left">About me:</h3>
+<p> I'm an undergraduate student majoring in Information Technology at Udayana University. With a passion for technology and innovation, I'm developing strong skills in areas such as software development, networking, and data analysis. I’m eager to apply my academic knowledge in real-world projects and collaborate with professionals in the field to further enhance my abilities and contribute to impactful solutions.</p>
 
+🌱 I’m currently learning **Laravel, Tailwind CSS, Linux**
 
-<h4 align="center"></h4>
+💬 Ask me about **Competitive Programming, C, C++, Python, Java**
 
-
-- 📫 How to reach me **wiraguna030804@gmail.com**
+⚡ Fun fact **I like Chocolate,Game,Anime,Sleep**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
