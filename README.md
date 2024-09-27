@@ -1,5 +1,8 @@
 <h1 align="center">Hi there👋, I'm Wiraguna </h1>
-<h4 align="center">I'm don't know, why the fuck u doing here</h4>
+
+
+<h4 align="center"></h4>
+
 
 - 📫 How to reach me **wiraguna030804@gmail.com**
 
