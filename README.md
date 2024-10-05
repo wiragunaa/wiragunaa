@@ -1,10 +1,8 @@
 
-<h1 >Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="25" height="25" />, I'm Wira </h1>
-
-
-<h3 align="left"> <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="40" height="40"/> About me:</h3>
-
+<h1 >Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="25" height="25" />, I'm Wira <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="40" height="40"/> </h1>
 <p> I'm an undergraduate student majoring in Information Technology at Udayana University. With a passion for technology and innovation, I'm developing strong skills in areas such as software development, networking, and data analysis. I’m eager to apply my academic knowledge in real-world projects and collaborate with professionals in the field to further enhance my abilities and contribute to impactful solutions.</p>
+<h3 align="left">  About me:</h3>
+<img src="https://user-images.githubusercontent.com/74038190/215283228-89a6af16-23b1-4144-ac9b-064dc973b3db.gif" width="300" height="150"/>
 
 🌱 I’m currently learning **Laravel, Tailwind CSS, Linux**
 
