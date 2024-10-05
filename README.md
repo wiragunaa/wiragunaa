@@ -1,9 +1,8 @@
-<div>
-<h1 >Hi there👋, I'm Wiraguna <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="50" height="50"/></h1>
 
-</div>
+<h1 >Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="25" height="25" />, I'm Wira </h1>
 
-<h3 align="left">About me:</h3>
+
+<h3 align="left"> <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="30" height="30"/> About me:</h3>
 
 <p> I'm an undergraduate student majoring in Information Technology at Udayana University. With a passion for technology and innovation, I'm developing strong skills in areas such as software development, networking, and data analysis. I’m eager to apply my academic knowledge in real-world projects and collaborate with professionals in the field to further enhance my abilities and contribute to impactful solutions.</p>
 
@@ -13,7 +12,7 @@
 
 ⚡ Fun fact **I like Chocolate,Game,Anime and Sleep**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif"  width="50" height="50"/>Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/agus arya wiraguna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agus arya wiraguna" height="30" width="40" /></a>
 <a href="https://instagram.com/wrgnaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wrgnaaa" height="30" width="40" /></a>
