@@ -1,5 +1,10 @@
-<h1 align="center">Hi there👋, I'm Wiraguna</h1>
+<div>
+<h1 >Hi there👋, I'm Wiraguna <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="50" height="50"/></h1>
+
+</div>
+
 <h3 align="left">About me:</h3>
+
 <p> I'm an undergraduate student majoring in Information Technology at Udayana University. With a passion for technology and innovation, I'm developing strong skills in areas such as software development, networking, and data analysis. I’m eager to apply my academic knowledge in real-world projects and collaborate with professionals in the field to further enhance my abilities and contribute to impactful solutions.</p>
 
 🌱 I’m currently learning **Laravel, Tailwind CSS, Linux**
